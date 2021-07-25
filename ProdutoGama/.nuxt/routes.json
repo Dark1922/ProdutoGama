@@ -1,0 +1,30 @@
+[
+  {
+    "name": "clientes",
+    "path": "/clientes",
+    "component": "C:\\\\Gama_produtos\\\\gama_produtos\\\\pages\\\\clientes.vue",
+    "chunkName": "pages/clientes",
+    "_name": "_d0a5d830"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "C:\\\\Gama_produtos\\\\gama_produtos\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_5c9bc50a"
+  },
+  {
+    "name": "produtos",
+    "path": "/produtos",
+    "component": "C:\\\\Gama_produtos\\\\gama_produtos\\\\pages\\\\produtos.vue",
+    "chunkName": "pages/produtos",
+    "_name": "_f288db6e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Gama_produtos\\\\gama_produtos\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_76a0c5b3"
+  }
+]
